@@ -74,7 +74,7 @@ margin-right: 10px;
 @media (max-width:520px) {
 
     section{
-        padding: 5vh 10%;
+        padding: 7vh 10%;
       height: 100vh;
 
     }
@@ -91,7 +91,7 @@ margin-right: 10px;
     
     /* section one */
     .my-image img{
-        width: 30vw;
+        width: 60vw;
         height: auto;
     }
 
